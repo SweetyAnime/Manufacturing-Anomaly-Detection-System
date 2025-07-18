@@ -101,12 +101,12 @@
 ### Option 1: GitHub Pages (Recommended)
 1. **Fork this repository** or download the `index.html` file
 2. **Upload to GitHub** and enable GitHub Pages in repository settings
-3. **Access your live site** at `https://yourusername.github.io/repository-name`
+3. **Access your live site** at `https://sweetyanime.github.io/Manufacturing-Anomaly-Detection-System/`
 
 ### Option 2: Local Development
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Manufacturing-Anomaly-Detection-System.git
+   git clone https://github.com/SweetyAnime/Manufacturing-Anomaly-Detection-System.git
    cd Manufacturing-Anomaly-Detection-System
    ```
 
@@ -362,14 +362,14 @@ We welcome contributions to improve the Manufacturing Anomaly Detection System!
 ## 📞 Support & Contact
 
 ### Team Contact
-- **Email**: [team-email@institution.edu]
-- **GitHub**: [Team GitHub Profile]
-- **LinkedIn**: [Team LinkedIn Profiles]
+- **GitHub**: [SweetyAnime](https://github.com/SweetyAnime)
+- **Repository**: [Manufacturing-Anomaly-Detection-System](https://github.com/SweetyAnime/Manufacturing-Anomaly-Detection-System)
+- **Live Demo**: [https://sweetyanime.github.io/Manufacturing-Anomaly-Detection-System/](https://sweetyanime.github.io/Manufacturing-Anomaly-Detection-System/)
 
 ### Issues & Feedback
-- **Report Bugs**: [GitHub Issues](https://github.com/yourusername/Manufacturing-Anomaly-Detection-System/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/Manufacturing-Anomaly-Detection-System/discussions)
-- **General Questions**: [Email Support](mailto:support@your-domain.com)
+- **Report Bugs**: [GitHub Issues](https://github.com/SweetyAnime/Manufacturing-Anomaly-Detection-System/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/SweetyAnime/Manufacturing-Anomaly-Detection-System/discussions)
+- **General Questions**: Create an issue on the GitHub repository
 
 ## 🏆 Acknowledgments
 
