@@ -232,20 +232,38 @@ const NORMAL_RANGES = {
 
 <div align="center">
   <h3>🏠 Main Dashboard</h3>
-  <img src="https://via.placeholder.com/800x500/0d6efd/ffffff?text=Main+Dashboard+Screenshot" alt="Main Dashboard" width="800">
+  <img src="screenshots/main-dashboard.png" alt="Main Dashboard" width="800">
   <p><em>Interactive dashboard with file upload and live generation options</em></p>
 </div>
 
 <div align="center">
   <h3>📊 Real-time Visualization</h3>
-  <img src="https://via.placeholder.com/800x500/198754/ffffff?text=Real-time+Charts+Screenshot" alt="Real-time Charts" width="800">
+  <img src="screenshots/real-time-charts.png" alt="Real-time Charts" width="800">
   <p><em>Multi-axis sensor data visualization with anomaly highlighting</em></p>
 </div>
 
 <div align="center">
-  <h3>🚨 Anomaly Detection</h3>
-  <img src="https://via.placeholder.com/800x500/dc3545/ffffff?text=Anomaly+Detection+Screenshot" alt="Anomaly Detection" width="800">
-  <p><em>Detailed anomaly reports with root cause analysis</em></p>
+  <h3>🚨 Anomaly Detection & Alerts</h3>
+  <img src="screenshots/anomaly-detection.png" alt="Anomaly Detection" width="800">
+  <p><em>Real-time anomaly alerts with blinking notifications</em></p>
+</div>
+
+<div align="center">
+  <h3>🔍 Root Cause Analysis</h3>
+  <img src="screenshots/root-cause-analysis.png" alt="Root Cause Analysis" width="800">
+  <p><em>Detailed anomaly reports with intelligent root cause identification</em></p>
+</div>
+
+<div align="center">
+  <h3>📈 Live Data Generation</h3>
+  <img src="screenshots/live-generation.png" alt="Live Data Generation" width="800">
+  <p><em>Live sensor data monitoring with real-time status indicators</em></p>
+</div>
+
+<div align="center">
+  <h3>📁 File Upload Interface</h3>
+  <img src="screenshots/file-upload.png" alt="File Upload" width="800">
+  <p><em>CSV file upload with data validation and batch processing</em></p>
 </div>
 
 ## 🔧 API Reference
