@@ -13,7 +13,9 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://yourusername.github.io/Manufacturing-Anomaly-Detection-System)** *(Replace with your actual GitHub Pages URL)*
+🔗 **[View Live Demo](https://sweetyanime.github.io/Manufacturing-Anomaly-Detection-System/)**
+
+📁 **[GitHub Repository](https://github.com/SweetyAnime/Manufacturing-Anomaly-Detection-System)**
 
 ## 👥 Team Information
 
