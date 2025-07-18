@@ -294,23 +294,6 @@ Analyzes sensor readings to identify potential root causes.
 **Returns:**
 - `Array`: List of potential root causes
 
-## 🚀 Deployment Options
-
-### GitHub Pages
-1. **Upload Files**: Push `index.html` to your GitHub repository
-2. **Enable Pages**: Go to Settings → Pages → Deploy from branch
-3. **Custom Domain**: Optionally configure custom domain
-
-### Netlify
-1. **Drag & Drop**: Upload `index.html` to Netlify
-2. **Auto Deploy**: Automatic deployment with custom URL
-3. **Form Handling**: Built-in form processing capabilities
-
-### Vercel
-1. **Import Repository**: Connect your GitHub repository
-2. **Zero Config**: Automatic deployment configuration
-3. **Global CDN**: Fast worldwide content delivery
-
 ## 🧪 Testing
 
 ### Manual Testing Checklist
@@ -403,18 +386,6 @@ Special thanks to IBM for organizing this hackathon and providing the platform t
 - Isolation Forest Algorithm: Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008)
 - Manufacturing Anomaly Detection: Industrial IoT Best Practices
 - Real-time Data Processing: Modern JavaScript Techniques
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Warranty
-- ❌ Liability
 
 ---
 
