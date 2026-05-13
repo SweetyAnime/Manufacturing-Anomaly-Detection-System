@@ -1,0 +1,14 @@
+import cv2
+import numpy as np
+
+img = cv2.imread("circular_grid.png")
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+ret, centers = cv2.findCirclesGrid(gray, (7,7),
+                                   flags=cv2.CALIB_CB_SYMMETRIC_GRID)
+
+if ret:
+    cv2.drawChessboardCorners(img, (7,7), centers, ret)
+    cv2.imshow("Circular Grid", img)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
