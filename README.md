@@ -26,7 +26,7 @@
 - **Jasiq** - Backend Developer & System Architect
 
 **Department:** AI & Data Science  
-**Institution:** [Your Institution Name]  
+**Institution:** Alpha College Of Engineering  
 **Hackathon:** IBM Hackathon 2025
 
 ## ✨ Key Features
